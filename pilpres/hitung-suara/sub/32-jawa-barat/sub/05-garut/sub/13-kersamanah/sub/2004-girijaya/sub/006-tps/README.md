@@ -1,0 +1,50 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis [01, 02, 03]
+    y-axis "Suara" 0 --> 141
+    bar [39, 141, 8]
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+    "1" : 39
+    "2" : 141
+    "3" : 8
+```
+
+## Tabel
+
+| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
+|:--- |:-------------- | -----:| -----------:| ----------:|
+| 1   | ANIES MUHAIMIN | 39    | [39][p-1]   | 20,74      |
+| 2   | PRABOWO GIBRAN | 141   | [141][p-2]  | 75,00      |
+| 3   | GANJAR MAHFUD  | 8     | [8][p-3]    | 4,26       |
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/05-garut/sub/13-kersamanah/sub/2004-girijaya/sub/006-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/05-garut/sub/13-kersamanah/sub/2004-girijaya/sub/006-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/05-garut/sub/13-kersamanah/sub/2004-girijaya/sub/006-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/7510/pemilu/ppwp/32/05/13/20/04/3205132004006-20240214-140950--db9abb86-494a-4536-a036-d1fb72f301cc.jpg
+
+https://sirekap-obj-formc.kpu.go.id/7510/pemilu/ppwp/32/05/13/20/04/3205132004006-20240214-141128--c5a10850-d74e-45ed-b99c-8791d09f241e.jpg
+
+https://sirekap-obj-formc.kpu.go.id/7510/pemilu/ppwp/32/05/13/20/04/3205132004006-20240214-141238--9e8945f6-104a-42d6-8a2b-cb653bc14ac1.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-14 21:46:01 |
+
+
+

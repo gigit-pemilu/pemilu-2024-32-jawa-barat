@@ -1,0 +1,15 @@
+# Hasil
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/f947/pemilu/ppwp/32/14/09/20/01/3214092001006-20240221-211541--29b097da-bb84-454d-8532-5cb996e7dfc3.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-21 22:00:00 |
+
+
+
