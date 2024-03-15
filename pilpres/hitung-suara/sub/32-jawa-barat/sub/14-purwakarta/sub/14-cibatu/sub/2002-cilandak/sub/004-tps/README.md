@@ -1,50 +1,51 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 172
-    bar [57, 172, 14]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 57
-    "2" : 172
-    "3" : 14
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 57    | [57][p-1]   | 23,46      |
-| 2   | PRABOWO GIBRAN | 172   | [172][p-2]  | 70,78      |
-| 3   | GANJAR MAHFUD  | 14    | [14][p-3]   | 5,76       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/14-purwakarta/sub/14-cibatu/sub/2002-cilandak/sub/004-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/14-purwakarta/sub/14-cibatu/sub/2002-cilandak/sub/004-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/14-purwakarta/sub/14-cibatu/sub/2002-cilandak/sub/004-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/02e8/pemilu/ppwp/32/14/14/20/02/3214142002004-20240215-062950--e8dd3b7f-a039-437f-8469-bf18618c1fc6.jpg
+https://sirekap-obj-formc.kpu.go.id/02e8/pemilu/ppwp/32/14/14/20/02/3214142002004-20240314-164327--5b846cb9-f6f9-43df-9619-384272122d4c.jpg
 
-https://sirekap-obj-formc.kpu.go.id/02e8/pemilu/ppwp/32/14/14/20/02/3214142002004-20240215-063047--9a90f5c8-92c8-471c-8b62-96a53b4d81c7.jpg
+https://sirekap-obj-formc.kpu.go.id/02e8/pemilu/ppwp/32/14/14/20/02/3214142002004-20240314-164329--713c76e7-988c-4898-a2da-bf7a96c11fbe.jpg
 
-https://sirekap-obj-formc.kpu.go.id/02e8/pemilu/ppwp/32/14/14/20/02/3214142002004-20240215-063210--3c12f8a0-35f2-4b91-a181-3a940d04ab63.jpg
+https://sirekap-obj-formc.kpu.go.id/02e8/pemilu/ppwp/32/14/14/20/02/3214142002004-20240314-164328--00d5a092-5faf-49e8-8848-87abadc93145.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-25 11:00:00 |
+| Time Stamp | 2024-03-14 17:00:00 |
 
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **281**.
+ * L: **135**.
+ * P: **146**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **249**.
+ * L: **121**.
+ * P: **128**.
+
+Jumlah pengguna hak pilih dalam DPTb: **0**.
+ * L: **0**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih dalam DPK: **0**.
+ * L: **1**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih: **250**.
+ * L: **122**.
+ * P: **128**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **243**.
+
+JUMLAH SUARA TIDAK SAH: **7**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **250**.
 
 
