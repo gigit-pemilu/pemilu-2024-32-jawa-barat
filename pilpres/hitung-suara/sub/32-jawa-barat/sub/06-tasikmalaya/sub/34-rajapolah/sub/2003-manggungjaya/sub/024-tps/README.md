@@ -1,30 +1,5 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis []
-    y-axis "Suara" 0 --> 0
-    bar []
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-```
-
-## Tabel
-
-| No. | Nama Paslon | Suara | Suara (raw) | Persentase |
-|:--- |:----------- | -----:| -----------:| ----------:|
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/06-tasikmalaya/sub/34-rajapolah/sub/2003-manggungjaya/sub/024-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/06-tasikmalaya/sub/34-rajapolah/sub/2003-manggungjaya/sub/024-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/06-tasikmalaya/sub/34-rajapolah/sub/2003-manggungjaya/sub/024-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
 https://sirekap-obj-formc.kpu.go.id/d646/pemilu/ppwp/32/06/34/20/03/3206342003024-20240216-200143--67a359a9-513a-430a-aa2e-e16b8f5f5d21.jpg
