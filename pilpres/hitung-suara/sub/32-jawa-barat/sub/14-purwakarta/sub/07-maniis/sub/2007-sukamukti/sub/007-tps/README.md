@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 137
-    bar [15, 137, 6]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 15
-    "2" : 137
-    "3" : 6
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 15    | [15][p-1]   | 9,49       |
-| 2   | PRABOWO GIBRAN | 137   | [137][p-2]  | 86,71      |
-| 3   | GANJAR MAHFUD  | 6     | [6][p-3]    | 3,80       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/14-purwakarta/sub/07-maniis/sub/2007-sukamukti/sub/007-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/14-purwakarta/sub/07-maniis/sub/2007-sukamukti/sub/007-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/14-purwakarta/sub/07-maniis/sub/2007-sukamukti/sub/007-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/79a9/pemilu/ppwp/32/14/07/20/07/3214072007007-20240215-091830--cd47b966-4589-4c0a-a848-d8ee878b6155.jpg
+https://sirekap-obj-formc.kpu.go.id/79a9/pemilu/ppwp/32/14/07/20/07/3214072007007-20240316-220438--53accf0e-7a08-4e78-a2ea-b41e32e50f44.jpg
 
-https://sirekap-obj-formc.kpu.go.id/79a9/pemilu/ppwp/32/14/07/20/07/3214072007007-20240215-091956--e96963d2-fd0f-42a0-aab9-c2a02b4732cb.jpg
+https://sirekap-obj-formc.kpu.go.id/79a9/pemilu/ppwp/32/14/07/20/07/3214072007007-20240316-220439--d7363d10-ed2a-4237-819b-d773f1017365.jpg
 
-https://sirekap-obj-formc.kpu.go.id/79a9/pemilu/ppwp/32/14/07/20/07/3214072007007-20240215-092103--f475903e-69be-4bbd-a7ce-9b421904f64f.jpg
+https://sirekap-obj-formc.kpu.go.id/79a9/pemilu/ppwp/32/14/07/20/07/3214072007007-20240316-220438--414fa6ef-0483-489e-8f6a-23b8d2e4cc5c.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-25 13:00:00 |
+| Time Stamp | 2024-03-16 22:30:00 |
 
 
 ## DATA PEMILIH TETAP
