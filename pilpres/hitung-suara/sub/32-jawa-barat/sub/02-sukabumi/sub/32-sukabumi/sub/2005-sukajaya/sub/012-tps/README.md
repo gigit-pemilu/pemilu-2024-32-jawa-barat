@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 83
-    bar [83, 83, 9]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 83
-    "2" : 83
-    "3" : 9
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 83    | [83][p-1]   | 47,43      |
-| 2   | PRABOWO GIBRAN | 83    | [83][p-2]   | 47,43      |
-| 3   | GANJAR MAHFUD  | 9     | [9][p-3]    | 5,14       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/32-sukabumi/sub/2005-sukajaya/sub/012-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/32-sukabumi/sub/2005-sukajaya/sub/012-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/32-sukabumi/sub/2005-sukajaya/sub/012-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/8e62/pemilu/ppwp/32/02/32/20/05/3202322005012-20240214-232523--3c343760-995d-4c43-bb22-1a3125b3ae49.jpg
+https://sirekap-obj-formc.kpu.go.id/8e62/pemilu/ppwp/32/02/32/20/05/3202322005012-20240317-151552--f4cf2b11-82ec-42ae-8b60-870ea197d9ea.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8e62/pemilu/ppwp/32/02/32/20/05/3202322005012-20240214-232753--eca926e2-333b-4f5f-a308-356c3f9c6736.jpg
+https://sirekap-obj-formc.kpu.go.id/8e62/pemilu/ppwp/32/02/32/20/05/3202322005012-20240317-151553--6e9299bf-966f-46fe-9814-09a50944b0c7.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8e62/pemilu/ppwp/32/02/32/20/05/3202322005012-20240214-233029--ed221a29-3a22-4741-8d58-5be6c4caeeef.jpg
+https://sirekap-obj-formc.kpu.go.id/8e62/pemilu/ppwp/32/02/32/20/05/3202322005012-20240317-151553--ecba3139-2047-45c9-b53d-02fcff683f99.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-15 15:00:29 |
+| Time Stamp | 2024-03-17 15:30:00 |
 
 
 ## DATA PEMILIH TETAP

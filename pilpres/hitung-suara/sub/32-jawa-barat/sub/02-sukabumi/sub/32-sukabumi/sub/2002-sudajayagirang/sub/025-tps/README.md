@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 108
-    bar [89, 108, 20]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 89
-    "2" : 108
-    "3" : 20
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 89    | [89][p-1]   | 41,01      |
-| 2   | PRABOWO GIBRAN | 108   | [108][p-2]  | 49,77      |
-| 3   | GANJAR MAHFUD  | 20    | [20][p-3]   | 9,22       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/32-sukabumi/sub/2002-sudajayagirang/sub/025-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/32-sukabumi/sub/2002-sudajayagirang/sub/025-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/32-sukabumi/sub/2002-sudajayagirang/sub/025-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/7937/pemilu/ppwp/32/02/32/20/02/3202322002025-20240215-010302--e65d8176-8cd8-460b-bcd4-39d0b13a15dc.jpg
+https://sirekap-obj-formc.kpu.go.id/7937/pemilu/ppwp/32/02/32/20/02/3202322002025-20240317-151248--6c744eaa-b430-4c9e-8009-50b981c71d22.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7937/pemilu/ppwp/32/02/32/20/02/3202322002025-20240215-010630--c88659d4-4a06-4cee-953f-bda7e67b661f.jpg
+https://sirekap-obj-formc.kpu.go.id/7937/pemilu/ppwp/32/02/32/20/02/3202322002025-20240317-151250--ce743833-f676-42b2-a57e-9a60746bd4fe.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7937/pemilu/ppwp/32/02/32/20/02/3202322002025-20240215-010845--2d97f06e-9b63-4b2b-9994-77feb93e6db0.jpg
+https://sirekap-obj-formc.kpu.go.id/7937/pemilu/ppwp/32/02/32/20/02/3202322002025-20240317-151249--4968df3f-b947-4140-bb51-20efe781241f.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-15 15:30:25 |
+| Time Stamp | 2024-03-17 15:30:00 |
 
 
 ## DATA PEMILIH TETAP

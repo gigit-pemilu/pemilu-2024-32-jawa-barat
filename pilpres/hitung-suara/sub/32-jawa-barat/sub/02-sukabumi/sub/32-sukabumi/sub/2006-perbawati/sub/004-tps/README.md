@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 165
-    bar [56, 165, 4]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 56
-    "2" : 165
-    "3" : 4
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 56    | [56][p-1]   | 24,89      |
-| 2   | PRABOWO GIBRAN | 165   | [165][p-2]  | 73,33      |
-| 3   | GANJAR MAHFUD  | 4     | [4][p-3]    | 1,78       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/32-sukabumi/sub/2006-perbawati/sub/004-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/32-sukabumi/sub/2006-perbawati/sub/004-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/32-sukabumi/sub/2006-perbawati/sub/004-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/a10c/pemilu/ppwp/32/02/32/20/06/3202322006004-20240215-030029--4e4618d4-8a36-4bff-b770-02f30e72199a.jpg
+https://sirekap-obj-formc.kpu.go.id/a10c/pemilu/ppwp/32/02/32/20/06/3202322006004-20240317-145821--122b6ab9-0daa-40b0-bdbf-2b71abbeb9ad.jpg
 
-https://sirekap-obj-formc.kpu.go.id/a10c/pemilu/ppwp/32/02/32/20/06/3202322006004-20240215-025946--c0819250-ae13-4c64-a2fe-2b4a09a03073.jpg
+https://sirekap-obj-formc.kpu.go.id/a10c/pemilu/ppwp/32/02/32/20/06/3202322006004-20240317-145822--8e008916-6673-49a2-b111-16c80f0b9bfa.jpg
 
-https://sirekap-obj-formc.kpu.go.id/a10c/pemilu/ppwp/32/02/32/20/06/3202322006004-20240215-025805--846e14ef-3dce-4f36-b520-af1eccc0414f.jpg
+https://sirekap-obj-formc.kpu.go.id/a10c/pemilu/ppwp/32/02/32/20/06/3202322006004-20240317-145822--063b99cd-e90b-4c68-a755-e96ecbe00efa.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-15 15:30:25 |
+| Time Stamp | 2024-03-17 15:00:00 |
 
 
 ## DATA PEMILIH TETAP
