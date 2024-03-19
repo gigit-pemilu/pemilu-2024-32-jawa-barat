@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 72
-    bar [31, 72, 4]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 31
-    "2" : 72
-    "3" : 4
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 31    | [31][p-1]   | 28,97      |
-| 2   | PRABOWO GIBRAN | 72    | [72][p-2]   | 67,29      |
-| 3   | GANJAR MAHFUD  | 4     | [4][p-3]    | 3,74       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/01-palabuhanratu/sub/2006-pasirsuren/sub/007-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/01-palabuhanratu/sub/2006-pasirsuren/sub/007-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/02-sukabumi/sub/01-palabuhanratu/sub/2006-pasirsuren/sub/007-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/4c66/pemilu/ppwp/32/02/01/20/06/3202012006007-20240215-012402--a54478b9-e202-46bc-a06a-acf178d200c0.jpg
+https://sirekap-obj-formc.kpu.go.id/4c66/pemilu/ppwp/32/02/01/20/06/3202012006007-20240318-134908--19a1c9e5-44a5-46a4-85b1-5096b8e379d0.jpg
 
-https://sirekap-obj-formc.kpu.go.id/4c66/pemilu/ppwp/32/02/01/20/06/3202012006007-20240215-012429--7813b24d-9d63-4ca0-b411-1837e9400d49.jpg
+https://sirekap-obj-formc.kpu.go.id/4c66/pemilu/ppwp/32/02/01/20/06/3202012006007-20240318-134909--58bd11a8-8236-4200-9cec-021c3826d42b.jpg
 
-https://sirekap-obj-formc.kpu.go.id/4c66/pemilu/ppwp/32/02/01/20/06/3202012006007-20240215-012441--b4cf1c13-4d28-496a-b27f-adae885b5973.jpg
+https://sirekap-obj-formc.kpu.go.id/4c66/pemilu/ppwp/32/02/01/20/06/3202012006007-20240318-134909--f7bf393c-4487-497f-bc2f-4a022e4cd40a.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 11:00:02 |
+| Time Stamp | 2024-03-18 14:00:00 |
 
 
 ## DATA PEMILIH TETAP

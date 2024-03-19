@@ -1,50 +1,51 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 150
-    bar [34, 150, 7]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 34
-    "2" : 150
-    "3" : 7
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 34    | [34][p-1]   | 17,80      |
-| 2   | PRABOWO GIBRAN | 150   | [150][p-2]  | 78,53      |
-| 3   | GANJAR MAHFUD  | 7     | [7][p-3]    | 3,66       |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/14-purwakarta/sub/07-maniis/sub/2001-gunungkarung/sub/008-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/14-purwakarta/sub/07-maniis/sub/2001-gunungkarung/sub/008-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-32-jawa-barat/blob/main/pilpres/hitung-suara/sub/32-jawa-barat/sub/14-purwakarta/sub/07-maniis/sub/2001-gunungkarung/sub/008-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/1172/pemilu/ppwp/32/14/07/20/01/3214072001008-20240215-060707--491e2415-992e-4fdb-b50f-b605c0796fc1.jpg
+https://sirekap-obj-formc.kpu.go.id/1172/pemilu/ppwp/32/14/07/20/01/3214072001008-20240318-090914--a7566e9b-feea-4ca4-9203-3b7a075d0243.jpg
 
-https://sirekap-obj-formc.kpu.go.id/1172/pemilu/ppwp/32/14/07/20/01/3214072001008-20240215-061002--6c698714-7348-4793-85ce-c2643f33f84f.jpg
+https://sirekap-obj-formc.kpu.go.id/1172/pemilu/ppwp/32/14/07/20/01/3214072001008-20240318-090916--418203e9-ec33-4f6a-99fa-a5b4f947a4fc.jpg
 
-https://sirekap-obj-formc.kpu.go.id/1172/pemilu/ppwp/32/14/07/20/01/3214072001008-20240215-061135--ff7744d8-dcfd-45f6-ba2c-8d6e9a95d099.jpg
+https://sirekap-obj-formc.kpu.go.id/1172/pemilu/ppwp/32/14/07/20/01/3214072001008-20240318-090915--f1c91679-9da4-4011-8d13-91755447ce86.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-19 17:00:00 |
+| Time Stamp | 2024-03-18 09:30:00 |
 
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **280**.
+ * L: **138**.
+ * P: **142**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **207**.
+ * L: **104**.
+ * P: **103**.
+
+Jumlah pengguna hak pilih dalam DPTb: **2**.
+ * L: **1**.
+ * P: **1**.
+
+Jumlah pengguna hak pilih dalam DPK: **0**.
+ * L: **0**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih: **209**.
+ * L: **105**.
+ * P: **104**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **191**.
+
+JUMLAH SUARA TIDAK SAH: **18**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **209**.
 
 
